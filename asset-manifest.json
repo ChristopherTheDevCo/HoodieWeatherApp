@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/HoodieWeatherApp/static/css/main.68c2ba3d.chunk.css",
+    "main.js": "/HoodieWeatherApp/static/js/main.8cc0d4ad.chunk.js",
+    "main.js.map": "/HoodieWeatherApp/static/js/main.8cc0d4ad.chunk.js.map",
+    "runtime-main.js": "/HoodieWeatherApp/static/js/runtime-main.79fe2562.js",
+    "runtime-main.js.map": "/HoodieWeatherApp/static/js/runtime-main.79fe2562.js.map",
+    "static/js/2.ecbd55ad.chunk.js": "/HoodieWeatherApp/static/js/2.ecbd55ad.chunk.js",
+    "static/js/2.ecbd55ad.chunk.js.map": "/HoodieWeatherApp/static/js/2.ecbd55ad.chunk.js.map",
+    "static/js/3.d32af079.chunk.js": "/HoodieWeatherApp/static/js/3.d32af079.chunk.js",
+    "static/js/3.d32af079.chunk.js.map": "/HoodieWeatherApp/static/js/3.d32af079.chunk.js.map",
+    "index.html": "/HoodieWeatherApp/index.html",
+    "static/css/main.68c2ba3d.chunk.css.map": "/HoodieWeatherApp/static/css/main.68c2ba3d.chunk.css.map",
+    "static/js/2.ecbd55ad.chunk.js.LICENSE.txt": "/HoodieWeatherApp/static/js/2.ecbd55ad.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/HoodieWeatherApp/static/media/WarmLoon.98cfba6a.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79fe2562.js",
+    "static/js/2.ecbd55ad.chunk.js",
+    "static/css/main.68c2ba3d.chunk.css",
+    "static/js/main.8cc0d4ad.chunk.js"
+  ]
+}
