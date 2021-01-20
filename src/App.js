@@ -41,7 +41,7 @@ return `${day} ${date} ${month} ${year}`
       <div className="search-box">
         <input type="text" 
         className="search-bar"
-        placeholder="Seek..."
+        placeholder="Seek. Ex- Orlando, Florida"
         onChange={e => setQuery(e.target.value)}
         value={query}
         onKeyPress={search}
